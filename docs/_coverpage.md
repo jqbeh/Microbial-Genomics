@@ -7,7 +7,7 @@
 
 - Tutorials for commonly used tools
 - Frequently asked questions
-- And other bioinformatic stuff!
+- And other bioinformatics fun!
 
 [GitHub](https://github.com/jqbeh/Microbial-Genomics)
 [Get Started](gettingstarted/quickstart)
