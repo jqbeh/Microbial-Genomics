@@ -1,5 +1,9 @@
 # Welcome!
 
+<p align="center">
+<img src="https://github.com/jqbeh/Microbial-Genomics/blob/main/docs/_figures/microbialgenomics_logo.png?raw=true" alt="alt text" width="500">
+</p>
+
 This is a page dedicated to common questions, tools and tutorials for Microbial Genomics.
 
 ## Documentation
