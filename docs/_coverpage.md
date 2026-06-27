@@ -1,15 +1,15 @@
 <!-- _coverpage.md -->
 
-<img src="_figures/port_logo.png" width="370">
+<img src="_figures/microbialgenomics_logo.png" width="370">
 <!-- ![logo](_figures/port_logo.jpeg) { width: 100px; } -->
 
-> Plasmid Outbreak Investigation Tool
+> Welcome to Microbial Genomics!
 
-- Reproducible pipieline for bacterial plasmid assembly and annotation
-- Takes long read as input
-- Easily interpretable output
+- Tutorials for commonly used tools
+- Frequently asked questions
+- And other bioinformatic stuff!
 
-[GitHub](https://github.com/jqbeh/PORT)
+[GitHub](https://github.com/jqbeh/Microbial-Genomics)
 [Get Started](gettingstarted/quickstart)
 
 
