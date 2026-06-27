@@ -11,7 +11,7 @@ This is a webpage dedicated to common questions and tools in Microbial Genomics.
 
 ## Documentation
 
-The complete documentation can be found [here](https://jqbeh.github.io/PORT/) (https://jqbeh.github.io/Microbial-Genomics/)
+The complete documentation can be found [here](https://jqbeh.github.io/Microbial-Genomics/).
 
 ## License
 
