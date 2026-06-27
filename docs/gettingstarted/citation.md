@@ -1,6 +1,4 @@
 # Citation
 
-If you use PORT please cite:
-
-**Insert citation**
+If you use any of the tools listed on this website, please cite the original tools!
 
